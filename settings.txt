@@ -1,0 +1,16 @@
+环境（确保能运行的）：
+python3.7
+torch>=1.5.0
+cuda>=10.2
+cuDNN>=7.6.5
+
+
+已经打包自带了sinanews.train/sinanews.test文件。如需更换，请将文件替换放入data文件夹
+
+运行方式：
+python run.py
+此后在两次input()中依次输入对应指令。
+第一次train/test任选一输入，train代表从源数据训练模型，test代表加载模型测试正确率
+第二次CNN/RNN任选一输入，分别代表相应神经网络
+
+需要注意的是，可在config.py修改中USE_GPU的值，来决定是否使用cuda

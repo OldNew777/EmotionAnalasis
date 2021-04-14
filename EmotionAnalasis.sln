@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "EmotionAnalasis", "EmotionAnalasis\EmotionAnalasis.pyproj", "{94C3AF3A-3085-4EE9-87C4-943AA97AFD92}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{94C3AF3A-3085-4EE9-87C4-943AA97AFD92}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{94C3AF3A-3085-4EE9-87C4-943AA97AFD92}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {47D54B6D-DF42-413B-A3B3-AD17B20BD243}
+	EndGlobalSection
+EndGlobal
